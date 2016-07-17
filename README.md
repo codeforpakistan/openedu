@@ -1,6 +1,6 @@
 # openedu
 
-An open platform for collaboration and feedback on the National Curriculum of Pakistan
+An open platform for collaboration and feedback on the National Curriculum of Pakistan (https://edu.stan.pk)
 
 ## To Do
 - [ ] Create a platform alternative for Wiki (see what is out there and what is possible, what suits this idea better)
